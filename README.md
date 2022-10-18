@@ -1,12 +1,12 @@
 - 👋 Hi, ny name is Bruno Vieira, I’m from São Paulo - Brazil
-- 🎓 I’m I'm currently doing a bachelor's degree in computer engineering. 
-- 👀 I’m interested in games in general and high-end pheriperals.
-- 💻 I’m currently learning JavaScript (TypeScript, NodeJs, React and React Native) 
-- 💞️ I’m looking to collaborate on any Open Source projects to improve my portfolio.
-- 📩 You can reach me via email: **Brunonvieira1@gmail.com** or [**Linkedin**](https://www.linkedin.com/in/bruno-vieira-0aba16170/)
+-  I’m I'm currently doing a bachelor's degree in computer engineering. 
+-  I’m interested in games in general and high-end pheriperals.
+-  I’m currently learning JavaScript (TypeScript, NodeJs, React and React Native) 
+-  I’m looking to collaborate on any Open Source projects to improve my portfolio.
+-  You can reach me via email: **Brunonvieira1@gmail.com** or [**Linkedin**](https://www.linkedin.com/in/bruno-vieira-0aba16170/)
 
 
-🚀Personal Goals🚀
+Personal Goals🚀
 - **Find a Job as a Dev**❌
 - **Make Dev Friends around the world**❌
 - **Collaborate on a Open Source project**❌
